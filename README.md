@@ -35,3 +35,13 @@ https://github.com/storybookjs/storybook-deployer#readme
 #### Transform Tools
 
 https://transform.tools/
+
+#### Interactions Storybook
+
+```sh
+yarn add --dev @storybook/testing-library @storybook/jest @storybook/addon-interactions @storybook/test-runner -D
+```
+
+#### MSW
+
+https://github.com/mswjs/msw-storybook-addon
